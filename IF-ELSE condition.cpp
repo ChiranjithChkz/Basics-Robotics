@@ -10,10 +10,10 @@ void setup()
 
 void loop()
 {
-   if(Serial.available()> 0)
+   if(Serial.available()> 0) //--------------->
    {
           char data = Serial.read();
-         if(data == 'r' || data == 'R')
+         if(data == 'r' || data == 'R')  //------------condition;
              {
                  Serial.println("Today is Rainy day");
              }
