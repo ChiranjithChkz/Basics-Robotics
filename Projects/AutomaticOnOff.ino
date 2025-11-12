@@ -1,5 +1,4 @@
-/**
- * // C++ code
+  // C++ code
 // first Project: Automatic light on-off lamp post
 // On when night, Off when day
 
@@ -18,7 +17,7 @@ void loop()
   
   
   //main condition
-  if(resistance <400)  
+  if(resistance < 400)  
   {
     digitalWrite(light, HIGH);
     delay(1000);
@@ -27,4 +26,3 @@ void loop()
     digitalWrite(light, LOW);
   }
 }
- */
