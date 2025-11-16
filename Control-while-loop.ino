@@ -1,5 +1,5 @@
-/**
- * //  Take an Input from Serial Monitor
+
+    //  Take an Input from Serial Monitor
     //Infinitive For loop
 
 void setup()
@@ -24,4 +24,4 @@ void setup()
    
   }
 }
- */
+ 

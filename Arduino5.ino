@@ -1,5 +1,5 @@
-/***
- * // A Simple Program
+
+ // A Simple Program
 
 void setup()
 {
@@ -13,4 +13,3 @@ void loop()
 {
   
 }
- */
