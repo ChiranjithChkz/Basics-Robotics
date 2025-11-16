@@ -145,6 +145,8 @@ void turnLeft() {
     digitalWrite(lm_lwpm, speeds);
 }
 
+// for stopping robot
+
 void stopFunction() {
   //For the right wheels
   digitalWrite(rm_ren, LOW);
